@@ -1,4 +1,4 @@
-function whell(banner, obj, arr) {
+function allbanner(banner, obj, arr) {
     //初始化
     this.init(banner,obj, arr);
     //设置banner
