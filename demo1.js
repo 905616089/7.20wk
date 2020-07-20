@@ -18,7 +18,7 @@ function allbanner(banner, obj, arr) {
 
 
 
-whell.prototype = {
+allbanner.prototype = {
     init(banner, obj, arr) {
         var banner = document.querySelector(banner);
         if (!(banner && banner.nodeType == 1)) {
